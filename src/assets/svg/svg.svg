@@ -1,0 +1,32 @@
+<svg width="1600.0000000000002" height="1200" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with SVG Editor - http://github.com/mzalive/SVG Editor/ -->
+
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="1602" height="1202" id="canvas_background" fill="#fff"/>
+  <g id="canvasGrid" display="none">
+   <rect id="svg_2" width="100%" height="100%" x="0" y="0" stroke-width="0" fill="url(#gridpattern)"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect fill="#bcad23" stroke="#000" stroke-width="5" x="12.123576" y="568.564297" width="1572.896814" height="32.203706" id="svg_1"/>
+  <rect fill="#bcad23" stroke-width="5" stroke-opacity="null" x="467.832143" y="321.114718" width="633.504352" height="26.301172" id="svg_3" stroke="#000"/>
+  <rect fill="#bcad23" stroke-width="5" stroke-opacity="null" x="112.729643" y="447.218064" width="406.732146" height="25.423979" id="svg_6" transform="rotate(-39 316.09570312500017,459.9300537109375) " stroke="#000"/>
+  <rect fill="#bcad23" stroke-width="5" stroke-opacity="null" x="1049.90855" y="447.242153" width="406.732146" height="25.423979" id="svg_7" stroke="#000" transform="rotate(39 1253.2746582031248,459.9541320800782) "/>
+  <ellipse fill="#fff" stroke="#000" stroke-width="5" stroke-opacity="null" fill-opacity="null" cx="781.632046" cy="584.408601" id="svg_10" rx="25.268817" ry="24.193548"/>
+  <ellipse fill="#fff" stroke="#000" stroke-width="5" stroke-opacity="null" fill-opacity="null" cx="577.330962" cy="584.408601" id="svg_11" rx="25.268817" ry="24.193548"/>
+  <ellipse fill="#fff" stroke="#000" stroke-width="5" stroke-opacity="null" fill-opacity="null" cx="957.97614" cy="584.408601" id="svg_12" rx="25.268817" ry="24.193548"/>
+  <ellipse fill="#fff" stroke="#000" stroke-width="5" stroke-opacity="null" fill-opacity="null" cx="1526.793369" cy="584.408601" id="svg_13" rx="25.268817" ry="24.193548"/>
+  <ellipse fill="#fff" stroke="#000" stroke-width="5" stroke-opacity="null" fill-opacity="null" cx="88.083629" cy="584.408601" id="svg_14" rx="25.268817" ry="24.193548"/>
+  <ellipse fill="#fff" stroke="#000" stroke-width="5" stroke-opacity="null" fill-opacity="null" cx="680.556773" cy="336.021493" id="svg_15" rx="25.268817" ry="24.193548"/>
+  <ellipse fill="#fff" stroke="#000" stroke-width="5" stroke-opacity="null" fill-opacity="null" cx="865.503018" cy="336.021493" id="svg_16" rx="25.268817" ry="24.193548"/>
+  <rect fill="#fbff0f" stroke="#000" stroke-width="5" x="139.158891" y="558.06452" width="56.989247" height="55.913978" id="svg_17"/>
+  <rect fill="#fbff0f" stroke="#000" stroke-width="5" x="1377.868537" y="556.989249" width="56.989247" height="55.913978" id="svg_30"/>
+  <text fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="691.847094" y="406.451613" id="svg_31" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">Вытяжной путь</text>
+  <text fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="674.642794" y="661.424728" id="svg_32" font-size="32" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve" transform="matrix(1,0,0,0.9599999785423279,0,26.53764851324013) " stroke="#000">Главный путь</text>
+  <text stroke="#000" transform="matrix(2.3402631282806396,0,0,1,-243.36320206835808,0) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_4" y="588.421305" x="181.578666" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_5" y="593.684463" x="161.57866" stroke-width="0" stroke="#000" fill="#000000">2</text>
+  <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_8" y="592.631831" x="1399.473924" stroke-width="0" stroke="#000" fill="#000000">1</text>
+ </g>
+</svg>
