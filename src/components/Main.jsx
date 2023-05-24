@@ -34,10 +34,10 @@ const Main = () => {
             setCount(Number(count++))
         }, 1000);
     }
-//komaksur
+
     return (
         <>
-        <svg class = ' align-items-center' width="1600.0000000000002" height="1200" xmlns="http://www.w3.org/2000/svg">
+        <svg class = 'center-pic' width="1600.0000000000002" height="1000" xmlns="http://www.w3.org/2000/svg">
      
             <g>
             <title>background</title>

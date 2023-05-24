@@ -43,4 +43,9 @@
 .fon-men{
     background-color: rgba(66, 123, 146, 0.808);
     height: 150px;
+    top: 100px;
 }
+.center-pic{
+  display:block;
+  margin:auto;
+  }
